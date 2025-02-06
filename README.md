@@ -1,2 +1,2 @@
 # Portfolio
-A project demonstrating data cleaning and transformation in MySQL
+A dynamic portfolio highlighting my work, skills, and projects, designed to be visually engaging and fully responsive. 
